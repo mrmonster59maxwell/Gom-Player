@@ -213,4 +213,4 @@ GOM Player is offered as a **full free version** with all features and updates i
 Don't miss out on the ultimate multimedia experience! Click the download button above and start using GOM Player today!
 
 ---
-**Last updated:** 2026-10-17 12:49:15 UTC
+**Last updated:** 2026-10-17 16:14:11 UTC
